@@ -1,0 +1,40 @@
+.background {
+  viewport-fill: black;
+}
+
+text {
+  font-family: Tungsten-Medium;
+  text-length: 32;
+  fill: white;
+}
+
+#time {
+  font-size: 115;
+  x: 10;
+  y: 15%+50;
+}
+
+#weekday {
+  font-size: 55;
+  x: 10;
+  y: 55%+10;
+}
+
+#date {
+  font-size: 55;
+  x: 10;
+  y: 80%+10;
+}
+
+#heart {
+  font-size: 35;
+  x: 230;
+  y: 40;
+  fill: #FE001A;
+}
+
+#hrm {
+  font-size: 55;
+  x: 270;
+  y: 50;
+}

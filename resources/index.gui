@@ -1,0 +1,9 @@
+<svg class="background">
+  <image class="pic" x="168" y="70" width="170" height="170" href="targaryen_thumbnail.png" />
+  <text id="time" />
+  <text id="weekday" />
+  <text id ="date" />
+  
+  <text id="heart">♥</text>
+  <text id="hrm"/>
+</svg>

@@ -1,0 +1,17 @@
+{
+  "fitbit": {
+    "appUUID": "ef957023-a6ab-44c4-9e3f-27773389b5aa",
+    "appType": "clockface",
+    "appDisplayName": "Targaryen",
+    "iconFile": "resources/icon.png",
+    "wipeColor": "",
+    "requestedPermissions": [
+      "access_heart_rate"
+    ],
+    "i18n": {
+      "en": {
+        "name": "Targaryen"
+      }
+    }
+  }
+}
